@@ -1,0 +1,2 @@
+The total sum is:80
+Calculated automatically by the C++ program.
